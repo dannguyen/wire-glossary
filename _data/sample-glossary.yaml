@@ -35,3 +35,17 @@
     A callout used to warn others about the arrival of police. Taken from the name of the show, *Hawaii Five-O*.
   frequency: 10
 
+
+
+- term: knockers
+  aliases:
+    - knockos
+  contexts:
+    - street
+  description: |
+    A callout for police raids, as opposed to detectives.
+
+
+- term: eyefuck
+
+
