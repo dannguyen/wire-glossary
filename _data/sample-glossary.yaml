@@ -1,0 +1,37 @@
+- term: yo
+  contexts:
+    - police
+  definition: |
+    Abbreviation and short-hand for "young offender"
+  frequency: 10
+
+
+- term: dunker
+  contexts:
+    - police
+  definition: |
+    A case (usually homicide) that is basically solvable at the scene.
+  frequency: 5
+
+
+- term: contrib line
+  contexts:
+    - newsroom
+  description: |
+    A line at the end of a news article that gives credit to reporters and researchers who contributed information to a story.
+
+    Used when the contribution isn't significant enough to merit a byline.
+
+
+
+- term: Five-O
+  aliases:
+    - 5-0
+    - 5-O
+    - five-oh
+  contexts:
+    - street
+  description: |
+    A callout used to warn others about the arrival of police. Taken from the name of the show, *Hawaii Five-O*.
+  frequency: 10
+
